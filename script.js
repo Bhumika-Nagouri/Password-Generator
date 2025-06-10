@@ -1,4 +1,4 @@
-function password(length, uppercase, lowercase, numbers ){
+function password(length, uppercase, lowercase, numbers, symbols ){
     const Uppercases = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const Lowercases = "abcdefghijklmnopqrstuvwxyz";
     const Numbers = "1234567890";
